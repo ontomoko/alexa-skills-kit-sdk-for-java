@@ -42,12 +42,12 @@ SDKの使用に役立ついくつかのサンプル、リファレンス、ガ�
 ガイド
 -----
 
-`ASK SDKのセットアップ <<Setting-Up-The-ASK-SDK.html>>`__
+`ASK SDKのセットアップ <Setting-Up-The-ASK-SDK.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mavenプロジェクトに依存関係としてSDKを含める方法を説明します。
 
-`初めてのスキル開発 <<Developing-Your-First-Skill.html>>`__
+`初めてのスキル開発 <Developing-Your-First-Skill.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hello Worldサンプルをビルドする手順を詳しく説明します。
